@@ -1,0 +1,53 @@
+.navbar{
+    position:fixed;
+    left:2px;
+    top:0px;
+    width:1500px;
+    
+}
+
+.textarea{
+    position: relative;
+    top:45px;
+    border:2px solid black;
+    border-radius: 5px;
+}
+
+.btn{
+    position: relative;
+    right:550px;
+    bottom:15px;
+}
+
+.heading{
+    position: relative;
+    right:500px;
+}
+
+/* .button{
+    position: relative;
+    left:25px;
+    top:3px;
+} */
+
+.todo{
+    position: relative;
+    right:300px;
+    top:3px;
+}
+
+.todobtn{
+    left:450px;
+}
+
+.btc{
+    position: relative;
+    left:45px;
+    top:80px;
+}
+
+.searchbtn{
+    position: relative;
+    left:2px;
+    top:2px;
+}
